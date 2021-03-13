@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap");
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+.full-header {
+  padding: 5vh 0;
+  background: #000;
+  color: #fff;
+  min-height: 100vh;
+}
+.main-content-header {
+  margin-top: 20vh;
+}
+.img-back-header {
+  height: 80vh;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
